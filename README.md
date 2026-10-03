@@ -1,7 +1,6 @@
 <div align="center">
 
-<!-- Замените ссылку на свою картинку баннера -->
-<img src="https://via.placeholder.com/1200x300/0d1117/58a6ff?text=YOUR+PROJECT+NAME" alt="Banner">
+
 
 # 🚀 PROJECT NAME: Advanced Suite
 **Next-generation utility framework for [Game Name]**
